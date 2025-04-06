@@ -24,3 +24,9 @@ $$ P(y|x) = \frac{P(x|y)P(y)}{P(x)} $$
 - 使用TfidfVectorizer计算TF-IDF值
 - 数学表达：$$ \text{tfidf}(t,d) = \text{tf}(t,d) \times \log(\frac{N}{\text{df}(t)}) $$
 - 同样选择最重要的1000个特征
+
+### 代码截图
+<img src="https://github.com/ustin3/-3/blob/main/1.png" alt="图片描述" width = "800" height = "图片长度" />
+<img src="https://github.com/ustin3/-3/blob/main/2.png" alt="图片描述" width = "800" height = "图片长度" />
+<img src="https://github.com/ustin3/-3/blob/main/3.png" alt="图片描述" width = "800" height = "图片长度" />
+<img src="https://github.com/ustin3/-3/blob/main/4.png" alt="图片描述" width = "800" height = "图片长度" />
